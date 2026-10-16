@@ -4,7 +4,7 @@ Platform Architect · Software Engineer · Technology Consultant
 
 I'm a career Platform Architect and Engineer, working primarily in consultancy, advisory, and fractional leadership roles.
 
-I specialise in designing, building, and evolving scalable platforms — from early-stage architecture through to production systems operating at scale.
+I specialise in designing, building, and evolving scalable platforms — from early-stage architecture through to production systems operating at scale. And combining this with improving Engineering Teams and their Tooling/Ways of Working.
 
 🏗️ What I've worked on
 
